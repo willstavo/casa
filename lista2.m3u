@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/d1/48/5ad1486b9aa62c4603e866765a340881.png" group-title="CANAL ABERTO",SUMMERTV
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.mi.com.sa/index/wp-content/uploads/32.png" group-title="CANAL ABERTO",LBCTV
+https://v7.ciclano.io:1443/lbctv/_definst_/lbctv/chunklist_w864098735.m3u8
+
+
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="CANAL ABERTO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tNWwrVxuL.png",CBTV HD Inter Brasil
+https://sa-all16.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1568913245.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2pmKlUw7dyY/W2yvt_eek2I/AAAAAAAA4P0/63VzDTn2ZxI_7mK6CChM2eS8Y4TW44ZGQCLcBGAs/s1600/logo-tcm10hd-rect.png" tvg-id="0" group-title="CANAL ABERTO",TCM 10 HD Mossoró RN
+http://live.tcm10.com.br/tcm10.m3u8
+
+
+
